@@ -8,7 +8,9 @@
         "mbitbot": "github:iCShopMgr/MbitBot#0c2b634dd2fa59f421ac565e5a46f91161fcb37e",
         "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13",
         "datalogger": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.14",
+        "IR": "github:lioujj/pxt-IR#54b42abb1556601b772b3c0f6cd20fd19f39e527"
     },
     "files": [
         "main.blocks",
